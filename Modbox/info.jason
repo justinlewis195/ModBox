@@ -1,0 +1,12 @@
+{
+    "name": "Modbox",
+    "version": "0.0.1",
+    "title": "Modbox",
+    "author": "Aeropar, and anouk8",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "Add new ores, enemies, and technologies for you to explore In the future look for new instantance base biomes."
+}
+
