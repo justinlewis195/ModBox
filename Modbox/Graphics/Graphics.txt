@@ -1,1 +1,3 @@
-Graphics text
+Graphics
+
+The folder for all Graphics recorces the mod requiers.
