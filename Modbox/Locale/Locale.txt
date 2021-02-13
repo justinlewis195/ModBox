@@ -1,0 +1,4 @@
+Locale
+
+
+Locale is the folder for all Language tanslations.
